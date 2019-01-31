@@ -1,6 +1,6 @@
-github "ArtemChaykovsky/KGNColor"
-github "ArtemChaykovsky/KGNAutoLayout"
-github "ArtemChaykovsky/KGNGradientView"
-github "ArtemChaykovsky/KGNPreferredFontManager"
+github "ArtemChaykovsky/KGNColor" "master"
+github "ArtemChaykovsky/KGNAutoLayout" "master"
+github "ArtemChaykovsky/KGNGradientView" "master"
+github "ArtemChaykovsky/KGNPreferredFontManager" "master"
 
-github "ArtemChaykovsky/NSDate-TimeAgo"
+github "ArtemChaykovsky/NSDate-TimeAgo" "master"
