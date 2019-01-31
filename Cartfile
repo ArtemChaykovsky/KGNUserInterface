@@ -1,4 +1,4 @@
-github "kgn/KGNColor" "swift4"
+github "ArtemChaykovsky/KGNColor"
 github "kgn/KGNAutoLayout"
 github "kgn/KGNGradientView"
 github "kgn/KGNPreferredFontManager"
