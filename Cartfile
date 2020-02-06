@@ -3,4 +3,3 @@ github "ArtemChaykovsky/KGNAutoLayout" "master"
 github "ArtemChaykovsky/KGNGradientView" "master"
 github "ArtemChaykovsky/KGNPreferredFontManager" "master"
 
-github "ArtemChaykovsky/NSDate-TimeAgo" "master"
